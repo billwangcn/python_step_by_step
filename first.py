@@ -1,13 +1,13 @@
 #-*- coding:utf-8 -*-
 import os,sys
+import uuit
 
 def getSysInfo():
-        return 'null'
+    return 'null'
 
 def getSum(i):
-        s=0
-        return s
+    s=0
+    return s
 
-
-
-
+def getUUID():
+    return uuid.UUID4()
