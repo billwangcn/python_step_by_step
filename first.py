@@ -2,11 +2,11 @@
 import os,sys
 
 def getSysInfo():
-    return 'null'
+        return 'null'
 
 def getSum(i):
-    s=0
-    return s
+        s=0
+        return s
 
 
 
