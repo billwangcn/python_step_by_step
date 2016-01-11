@@ -5,3 +5,19 @@ def getSysInfo():
 
 if __name__=='__main__':
 	getSysInfo()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
