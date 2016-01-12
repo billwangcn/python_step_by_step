@@ -13,6 +13,7 @@ def getSum(i):
     return s
 
 def getUUID():
+<<<<<<< HEAD
     return uuid.UUID()
 
 
@@ -28,3 +29,6 @@ def getUUID():
 
 
 
+=======
+    return uuid.UUID4()
+>>>>>>> wb

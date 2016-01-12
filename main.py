@@ -3,7 +3,7 @@ import os,sys
 import first
 
 def getSysInfo():
-    return 'null'
+	return 'null'
 
 def loadfile(path):
     file = open(path)
